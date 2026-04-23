@@ -1,0 +1,24 @@
+# Task Manager Web App
+
+## Description
+A simple responsive task manager built using HTML5, CSS3, and JavaScript.
+
+## Features
+- Add tasks
+- Delete tasks
+- Persistent storage using LocalStorage
+- Responsive UI
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+## How to Run
+1. Download or clone the repo
+2. Open index.html in a browser
+
+## Future Improvements
+- Edit tasks
+- Task completion status
+- Cloud sync
